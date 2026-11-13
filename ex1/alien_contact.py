@@ -52,7 +52,7 @@ def main() -> None:
             duration_minutes=45,
             witness_count=5,
             message_received="Greetings from Zeta Reticuli",
-            timestamp=datetime(2026, 2, 13, 10, 59),
+            timestamp=datetime(2024, 2, 13, 10, 59),
             is_verified=True
         )
         print("Valid contact report:")

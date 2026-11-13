@@ -27,7 +27,7 @@ def main() -> None:
                     power_level=85.5,
                     oxygen_level=92.3,
                     is_operational=True,
-                    last_maintenance=datetime(2026, 11, 13, 8, 52)
+                    last_maintenance=datetime(2024, 11, 13, 8, 52)
                     )
         print("Valid station created:")
         print(f"ID: {station.station_id}")
